@@ -1,3 +1,6 @@
+#Projeto desenvolvido com Angular
+-To Do com as informações salvas no Local Storage
+
 # Todo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.7.
